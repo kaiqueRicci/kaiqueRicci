@@ -312,19 +312,23 @@ Projeto frontend com **slider/carrossel interativo**, navegação dinâmica, ani
 <br>
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kaiqueRicci/kaiqueRicci/snake-output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/kaiquericci/kaiquericci/snake-output/github-contribution-grid-snake-dark.svg.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kaiqueRicci/kaiqueRicci/snake-output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/kaiquericci/kaiquericci/snake-output/github-contribution-grid-snake.svg.svg"
   />
+
   <img
-    src="https://raw.githubusercontent.com/kaiqueRicci/kaiqueRicci/snake-output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/kaiquericci/kaiquericci/snake-output/github-contribution-grid-snake.svg.svg"
     alt="GitHub Contribution Snake"
     width="95%"
   />
+
 </picture>
 
 </div>
