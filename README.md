@@ -296,7 +296,7 @@ Projeto frontend com **slider/carrossel interativo**, navegação dinâmica, ani
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueRicci&layout=compact&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueRicci&layout=compact&hide_border=true&bg_color=0D1117&text_color=FFFFFF"
   height="180"
   alt="Top Languages"
 />
@@ -315,16 +315,16 @@ Projeto frontend com **slider/carrossel interativo**, navegação dinâmica, ani
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kaiquericci/kaiquericci/snake-output/github-contribution-grid-snake-dark.svg.svg"
+    srcset="https://raw.githubusercontent.com/kaiqueRicci/kaiqueRicci/snake-output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kaiquericci/kaiquericci/snake-output/github-contribution-grid-snake.svg.svg"
+    srcset="https://raw.githubusercontent.com/kaiqueRicci/kaiqueRicci/snake-output/github-contribution-grid-snake.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/kaiquericci/kaiquericci/snake-output/github-contribution-grid-snake.svg.svg"
+    src="https://raw.githubusercontent.com/kaiqueRicci/kaiqueRicci/snake-output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="95%"
   />
